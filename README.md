@@ -59,7 +59,8 @@ CREATE TABLE patients (
 );
 ```
 * **Compile the Program:**
-  Use a C++ compiler to compile the program. For example, using  MinGW:
+
+  * Use a C++ compiler to compile the program. For example, using  MinGW:
 ```bash
 g++ main.cpp -o HospitalManagementSystem -lmysql
 ```
